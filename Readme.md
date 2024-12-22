@@ -1,5 +1,8 @@
 # Soptify 按讚樂曲下載器
 
+## 注意事項
+此程式依賴`yt-dlp`，請確保有正確安裝
+
 ## 設置
 
 - .env中的每個欄位都需要填寫，除了`COOKIES_FILE_PATH`和`MAX_THREADS`
