@@ -1,0 +1,9 @@
+*.txt
+*.json
+.env
+.env.production
+.env.bak
+.env.development
+.env.local
+output
+output/*.mp3
